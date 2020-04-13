@@ -11,4 +11,4 @@ Publica un Estado
 Publica un Link
 Credito
 02691255-MA. del Carmen Barrera
-Licencia: 
+Licencia: https://github.com/02691255/fbcmd4j/blob/master/LICENSE
