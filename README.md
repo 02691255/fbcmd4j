@@ -2,7 +2,9 @@
 Cliente de Facebook en linea de comando (FBcmd4j) evidencia 
 
 ## Instalación
-**Importar a Eclipse**
+**Clonar el repositorio**
+** Importar  a eclipse**
+
 ## USO
 **Configura cuenta Facebook en linea de Comando -Evidencia**
 **Obtener el NewsFeed**
