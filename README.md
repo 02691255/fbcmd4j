@@ -3,17 +3,18 @@ Cliente de Facebook en linea de comando (FBcmd4) Evidencia
 
 ## INSTALACIÓN 
 ** Clonar el repositorio**
-**Importar a  eclipse**
+
+** Impotar a eclipse **
 
 ## USO
-** Configurar cuenta en Facebook
+** Configurar cuenta en Facebook **
+** Obtener el NewsFedd **
+** Obtener el Wall **
+** Publicar un estado **
+** Publicar un link **
 
-**Obtener el NewsFeed**
-**Obtener el Wall**
-**Publicar un estado**
-**Publicar un link**
-## CRÉDITO
-
-**02691255 - Carmen Barrera
+## CRÉDITOS
+** 02691255  - Carmen Barrera **
 
 ## LICENCIA
+** 
