@@ -8,9 +8,11 @@ Cliente de Facebook en linea de comando (FBcmd4) Evidencia
 
 ## USO
 ** Configurar cuenta en Facebook **
+
 ** Obtener el NewsFedd **
-** Obtener el Wall **
+
 ** Publicar un estado **
+
 ** Publicar un link **
 
 ## CRÉDITOS
