@@ -1,7 +1,4 @@
 # fbcmd4j
-Primer proyecto
-Instalacion
-Uso
-Creditos
-Licencia
-La licencia esta en https://github.com/02691255/fbcmd4j/blob/master/LICENSE
+Cliente de Facebook  en linea de comando  (FBcmd4j) de evidencia -Computación en Java
+INSTALACION
+Clonar el repositorio
