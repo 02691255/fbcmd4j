@@ -1,12 +1,13 @@
 ## fbcmd4j
-Cliente de Facebook en linea de comando (FBcmd4j) evidencia 
+Cliente de Facebook en linea de comando (FBcmd4) Evidencia
 
-## Instalación
-**Clonar el repositorio**
-** Importar  a eclipse**
+## INSTALACIÓN 
+** Clonar el repositorio**
+**Importar a  eclipse**
 
 ## USO
-**Configura cuenta Facebook en linea de Comando -Evidencia**
+** Configurar cuenta en Facebook
+
 **Obtener el NewsFeed**
 **Obtener el Wall**
 **Publicar un estado**
