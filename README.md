@@ -22,4 +22,5 @@ Cliente de Facebook en linea de comando (FBcmd4) Evidencia
 ** 02691255  - Carmen Barrera **
 
 ## LICENCIA
-** 
+** https://github.com/02691255/fbcmd4j/blob/master/LICENSE **
+
