@@ -7,9 +7,12 @@ Cliente de Facebook en linea de comando (FBcmd4) Evidencia
 ** Impotar a eclipse **
 
 ## USO
+
 ** Configurar cuenta en Facebook **
 
 ** Obtener el NewsFedd **
+
+** Obtener el Wall **
 
 ** Publicar un estado **
 
